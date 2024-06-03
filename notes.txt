@@ -1,0 +1,5 @@
+go test cli's:
+
+go test // rodar testes padrão
+go test -v // rodar testes com log verboso
+go test -run [func-name] // rodar um teste especifico 
